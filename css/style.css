@@ -1,0 +1,48 @@
+/*!
+ * Start Bootstrap - Business Frontpage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+div {
+    color: #36454F;
+}
+
+.business-header {
+    height: 400px;
+    background: url('../img/cactus.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #FFFEF0;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.icon {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    border: 8px solid #36454F;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 180px;
+    line-height: 280px;
+    color: #36454F;
+    background-color: #fff;
+}
+
+footer {
+    margin: 50px 0;
+}
